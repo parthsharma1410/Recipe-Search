@@ -1,7 +1,7 @@
 # RECIPE-SEARCH
 
 Search for a recipe for a meal by entering the calories you want to eat.\
-Made using ReactJS, and incorporates spoonacular API.
+This is made using ReactJS, and incorporates spoonacular API.
 
 ## Getting Started with Create React App
 
