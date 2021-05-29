@@ -25,7 +25,7 @@ export default function Meal({ meal }) {
         <li>Number of servings: {meal.servings}</li>
       </ul>
 
-      <a href={meal.sourceUrl}>Go to Recipe</a>
+      <a href={meal.sourceUrl}>Go to the Recipe</a>
     </article>
   )
 }
